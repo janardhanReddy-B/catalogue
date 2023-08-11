@@ -1,5 +1,5 @@
 component: catalogue
-appVersion: 2.0.1
+appVersion: 2.0.2
 
 service:
   type: ClusterIP
